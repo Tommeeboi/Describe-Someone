@@ -1,0 +1,77 @@
+body {
+    background-color: #00ff80;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.title {
+    font-size: 100px;
+}
+
+.smol {
+    font-size: 25px;
+}
+
+.ever {
+    font-size: 20px;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.howto {
+    font-size: 30px;
+}
+
+.explain {
+    font-size: 20px;
+    font-weight: normal;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.next {
+    display: inline;
+    font-size: 20px;
+}
+
+input {
+    padding-top: 5px;
+}
+
+#submit {
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #008000;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.quer {
+    font-size: 25px;
+}
+
+.bottom {
+    font-size: 20px;
+}
+
+.sep {
+    background-color: black;
+    border: 2px solid black;
+}
+
+.copy {
+    display: inline;
+    text-align: left;
+    float: left;
+    font-size: 20px;
+}
+
+.proud {
+    display: inline;
+    text-align: right;
+    float: right;
+    font-size: 20px;
+}
